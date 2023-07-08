@@ -23,6 +23,7 @@ nav {
     display: flex;
     justify-content: space-between;
     text-align: center ;
+    margin:0 200px;
 }
 
 .nav-title {
@@ -43,6 +44,13 @@ nav li {
 
 nav a{
      text-decoration: none;
-     color:black ;
+     color:#474747 ;
+}
 
+/* header related style*/
+.header{
+    background-color:#fff8f3 ;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
 }
