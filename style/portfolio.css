@@ -83,7 +83,8 @@ nav a{
     vertical-align: bottom;
 }
 
-.banner-title{ font-style: normal;
+.banner-title{ 
+    font-style: normal;
     font: size 85px;
     font-weight: 700;
     margin-top: 5% ;
@@ -100,4 +101,13 @@ main{
     padding: 130px;
     background:#9bafe6;
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    text-align:center ;
+
 }
